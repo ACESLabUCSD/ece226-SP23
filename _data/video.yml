@@ -1,0 +1,37 @@
+- date: 09/23/2021
+  lecturer: Koushanfar
+  title: >
+    <strong>Introduction and Orientation</strong>
+  slides: ""
+  video: ""
+  readings:
+    - <a href="https://www.youtube.com/watch?v=28aX0PDXsfU" target="_blank">Set 0 Course logistics</a>
+    - <a href="https://www.youtube.com/watch?v=28fDTRQWfio" target="_blank">Set 1 Course Overview</a>
+    - <a href="https://www.youtube.com/watch?v=BXThW_u-olo" target="_blank">Set 2 Why this class</a>
+    - <a href="https://www.youtube.com/watch?v=zir45BFAY_4" target="_blank">Set 3 Career paths in VLSI design</a>
+    - <a href="https://www.youtube.com/watch?v=lOh0q2dwqLU" target="_blank">Set 4 Hardware description language (HDL) -- evolution and usage </a>
+    - <a href="https://www.youtube.com/watch?v=4VG0Balf-d0" target="_blank">Set 5 Back to digital design basics </a>
+    - <a href="https://www.youtube.com/watch?v=mi-7IR2A1Wg" target="_blank">Set 6 SystemVerilog </a>
+    - <a href="https://www.youtube.com/watch?v=zWq95mX-eqo" target="_blank">Set 7 SystemVerilog hierarchical modeling concepts</a>
+  logistics:
+
+- date: 09/24/2021
+  lecturer: Koushanfar
+  title: >
+    <strong>Introduction to SystemVerilog</strong>
+  slides: ""
+  video: ""
+  readings:
+    - <a href="https://www.youtube.com/watch?v=Evd5d2pWaQA" target="_blank">Set 1 Basics of Structural \& Behavioral</a>
+    - <a href="https://www.youtube.com/watch?v=wsf4mQ42quU" target="_blank">Set 2 Basics of SystemVerilog module elements</a>
+  logistics:
+
+- date: 12/09/2021	
+
+  lecturer: 
+  title: >
+  slides: ""
+  video: ""
+  readings:
+    - 
+  logistics: 
