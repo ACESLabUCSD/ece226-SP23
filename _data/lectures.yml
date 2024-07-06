@@ -2,21 +2,22 @@
   lecturer:
   title: >
     <strong>Introduction</strong>
-  slides: "https://docs.google.com/presentation/d/1UyY3u6yFM-vFrqB30TZVdX1dEaeT_QX1/edit?usp=sharing&ouid=113017722085653394029&rtpof=true&sd=true"
+  slides: "https://drive.google.com/file/d/1gmnbALm9CFq6lXaXwkEF1yiUeFuAP-FF/view?usp=sharing"
   logistics:
 
 - date: 04/06/2023
   lecturer: 
   title: >
     <strong>Foundation of Deep Learning</strong>
-  slides: "https://docs.google.com/presentation/d/1t2VIL5Js-2o_2fv8ykg_VICiK5jAuvwi/edit?usp=sharing&ouid=113017722085653394029&rtpof=true&sd=true"
+  slides: "https://drive.google.com/file/d/1I1cwImG-sAm9peD7yt5TdUr08AwWj4gf/view?usp=sharing"
   logistics: Lab 0
+  hw_link: "https://drive.google.com/drive/u/1/folders/1H8O9fOu4Pv8m95I8ZcD9AuY4pr4eIcYo"
 
 - date: 04/11/2023
   lecturer: 
   title: >
     <strong>Sparsity / Pruning 1</strong>
-  slides: "https://docs.google.com/presentation/d/1fBgsyVtl8LS_xFbli8MHoOXkU-ToRHEJ/edit?usp=sharing&ouid=113017722085653394029&rtpof=true&sd=true"
+  slides: "https://drive.google.com/file/d/1y6c4axgsxrVyqWFAHm25VGceVTTeQwAU/view?usp=sharing"
   readings:
     - <a href="https://aceslab.org/mw/images/8/8b/Samragh2017.pdf" target="_blank">LookNN Neural network with no multiplication</a> 
     - <a href="https://proceedings.neurips.cc/paper/2021/hash/6e8404c3b93a9527c8db241a1846599a-Abstract.html" target="_blank">Channel Permutations for N:M Sparsity</a> 
@@ -26,14 +27,16 @@
   lecturer: 
   title: >
     <strong>Sparsity / Pruning 2</strong>
-  slides: "https://docs.google.com/presentation/d/1Mwd_zfxejl7VnFdX4Lzma3PzeOQZWlAt/edit?usp=sharing&ouid=113017722085653394029&rtpof=true&sd=true"
+  slides: "https://drive.google.com/file/d/1Uljkxx5FeLURQqenngAi62Ds61WhN3OR/view?usp=sharing"
   logistics: Lab 1
+  hw_link: "https://drive.google.com/drive/u/1/folders/1H8O9fOu4Pv8m95I8ZcD9AuY4pr4eIcYo"
+
 
 - date: 04/18/2023
   lecturer: 
   title: >
     <strong>Quantization 1</strong>
-  slides: "https://docs.google.com/presentation/d/1rYfh8K7qGc7YRMXqZUXFw9eMZpD0Dgv9/edit?usp=sharing&ouid=113017722085653394029&rtpof=true&sd=true"
+  slides: "https://drive.google.com/file/d/17hQfW30293ZWvz6t0wmfBckCSPUufDiC/view?usp=sharing"
   readings:
     - <a href="https://arxiv.org/abs/2206.00843" target="_blank">DepthShrinker A New Compression Paradigm Towards Boosting Real-Hardware Efficiency of Compact Neural Networks</a> 
     - <a href="https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_APQ_Joint_Search_for_Network_Architecture_Pruning_and_Quantization_Policy_CVPR_2020_paper.pdf" target="_blank">APQ Joint Search for Network Architecture, Pruning and Quantization Policy</a> 
@@ -43,14 +46,16 @@
   lecturer: 
   title: >
     <strong>Quantization 2</strong>
-  slides: "https://docs.google.com/presentation/d/1_Bfb-wMRC9CU0L3azwjqHG_SMjI6OdsM/edit?usp=sharing&ouid=113017722085653394029&rtpof=true&sd=true"
+  slides: "https://drive.google.com/file/d/1uTaG2WewfnzwlUiyVNAU5sLmn6gJuxUi/view?usp=sharing"
   logistics: Lab 2 (Lab 1 due)
+  hw_link: "https://drive.google.com/drive/u/1/folders/1H8O9fOu4Pv8m95I8ZcD9AuY4pr4eIcYo"
+
 
 - date: 04/25/2023
   lecturer: 
   title: >
     <strong>Neural Architecture Search 1</strong>
-  slides: "https://docs.google.com/presentation/d/1RfhL0tRizbu5xmQ6JsCqzetjNX5pdXBd/edit?usp=sharing&ouid=113017722085653394029&rtpof=true&sd=true"
+  slides: "https://drive.google.com/file/d/1WL2H80QuWScqlFAqEC4SHjEPxPOmqN7R/view?usp=sharing"
   readings:
     - <a href="http://proceedings.mlr.press/v70/mirhoseini17a/mirhoseini17a.pdf" target="_blank">Device Placement Optimization with Reinforcement Learning</a> 
     - <a href="https://arxiv.org/pdf/2104.00298.pdf" target="_blank">EfficientNetV2 Smaller Models and Faster Training</a> 
@@ -61,7 +66,7 @@
   lecturer: 
   title: >
     <strong>Neural Architecture Search 2</strong>
-  slides: "https://docs.google.com/presentation/d/1Fy3jvqb66tu7wUocO_vkbBtqncBua5a3/edit?usp=sharing&ouid=113017722085653394029&rtpof=true&sd=true"
+  slides: "https://drive.google.com/file/d/1r1sP5iiCCTloOvbu8xQ3QxNli5rYcZns/view?usp=sharing"
   readings:
     - <a href="https://urldefense.com/v3/__https://arxiv.org/pdf/1806.09055.pdf__;!!Mih3wA!HxLZOCfuG7Td5Jwiker_vH5Bmv27DjOTqAVNsK6kG_tDIFQbR4SLIRj3ZJQQO5I2ZcY8zk3cvcsKcrL-Q5Ti$" target="_blank">DARTS Differentiable Architecture Search</a> 
     - <a href="https://urldefense.com/v3/__https://arxiv.org/pdf/1802.03268.pdf__;!!Mih3wA!HxLZOCfuG7Td5Jwiker_vH5Bmv27DjOTqAVNsK6kG_tDIFQbR4SLIRj3ZJQQO5I2ZcY8zk3cvcsKciyr3QBj$" target="_blank">Efficient Neural Architecture Search via Parameter Sharing</a> 
@@ -71,16 +76,18 @@
   lecturer: 
   title: >
     <strong>Binary Neural Networks / HW Platforms</strong>
-  slides: "https://docs.google.com/presentation/d/1xr4XaHrY6k6MToTyrAZM2UQ6o5gZXqZp/edit?usp=sharing&ouid=113017722085653394029&rtpof=true&sd=true"
+  slides: "https://drive.google.com/file/d/1bLsoqV1Rd2Cu9fqqdqcSgIp6BwNppdKB/view?usp=sharing"
   readings:
     - <a href="https://dl.acm.org/doi/pdf/10.1145/3431920.3439296" target="_blank">FracBNN Accurate and FPGA-Efficient Binary Neural Networks with Fractional Activations</a> 
   logistics: Lab 3 (Lab 2 due)
+  hw_link: "https://drive.google.com/drive/u/1/folders/1H8O9fOu4Pv8m95I8ZcD9AuY4pr4eIcYo"
+
 
 - date: 05/04/2023
   lecturer: 
   title: >
     <strong>Reconfigurable Cloud-based FPGA</strong>
-  slides: "https://docs.google.com/presentation/d/1gZgzM3Z9YCpJutaiXBDCJYFAPSj-pNX1/edit?usp=sharing&ouid=113017722085653394029&rtpof=true&sd=true"
+  slides: "https://drive.google.com/file/d/1Cs5ls0y9oBm7WYwt5sKdmalnmpJcveYY/view?usp=sharing"
   readings:
     - <a href="https://dl.acm.org/doi/pdf/10.1145/3079856.3080246" target="_blank">In-datacenter performance analysis of a tensor processing unit</a>
   logistics: 
@@ -90,7 +97,7 @@
   lecturer: 
   title: >
     <strong>Knowledge Distillation</strong>
-  slides: "https://docs.google.com/presentation/d/15tUduJEQMCTGc5DFz_Rj-r90UjBhrsp4/edit?usp=sharing&ouid=113017722085653394029&rtpof=true&sd=true"
+  slides: "https://drive.google.com/file/d/1AsvmzTHFmmhqeKzZ5x-l00qNTfoQA11-/view?usp=sharing"
   readings:
     - <a href="https://openaccess.thecvf.com/content_ICCV_2019/papers/Cho_On_the_Efficacy_of_Knowledge_Distillation_ICCV_2019_paper.pdf" target="_blank">On the efficacy of knowledge distillation</a>
     - <a href="https://proceedings.neurips.cc/paper/2020/file/81f7acabd411274fcf65ce2070ed568a-Paper.pdf" target="_blank">TinyTL Reduce Memory, Not Parameters for Efficient On-Device Learning</a>
@@ -101,16 +108,18 @@
   lecturer: 
   title: >
     <strong>Distributed Training 1</strong>
-  slides: "https://docs.google.com/presentation/d/1MlxXd6tO809pNtGwTNBwocY6cYZTMF6-/edit?usp=sharing&ouid=113017722085653394029&rtpof=true&sd=true"
+  slides: "https://drive.google.com/file/d/14E_eXO4FikNR05kPhHhlBJfSmyZlFxfB/view?usp=sharing"
   readings:
     - <a href="https://arxiv.org/pdf/1712.01887.pdf" target="_blank">Deep Gradient Compression Reducing the Communication Bandwidth for Distributed Training</a>
   logistics: Lab 4 (Lab 3 due)
+  hw_link: "https://drive.google.com/drive/u/1/folders/1H8O9fOu4Pv8m95I8ZcD9AuY4pr4eIcYo"
+
 
 - date: 05/16/2023
   lecturer: 
   title: >
     <strong>Distributed Training 2</strong>
-  slides: "https://docs.google.com/presentation/d/1uVYa8uiERBOVYEQ7jPWXDOaoukRP_ZIm/edit?usp=sharing&ouid=113017722085653394029&rtpof=true&sd=true"
+  slides: "https://drive.google.com/file/d/18M6tFxxeUOot2-qFs8ArAo0n7sdeVIdC/view?usp=sharing"
   readings:
     - <a href="https://ojs.aaai.org/index.php/AAAI/article/view/11728" target="_blank">AdaComp Adaptive Residual Gradient Compression for Data-Parallel Distributed Training</a>
   logistics: 
@@ -119,11 +128,13 @@
   lecturer: 
   title: >
     <strong>On-device Training</strong>
-  slides: "https://docs.google.com/presentation/d/1pbMmDACIBj0BFqisyovNT0OUVmrC1mjz/edit?usp=sharing&ouid=113017722085653394029&rtpof=true&sd=true"
+  slides: "https://drive.google.com/file/d/1_jMBWRM9XUOIO2VyYkqN42FPL26hwH6y/view?usp=sharing"
   readings:
     - <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9600865" target="_blank">SWANN Small-World Architecture for Fast Convergence of Neural Networks</a>
     - <a href="https://arxiv.org/pdf/2206.15472.pdf" target="_blank">On-Device Training Under 256KB Memory</a>
   logistics: Final Project
+  hw_link: "https://drive.google.com/drive/u/1/folders/1H8O9fOu4Pv8m95I8ZcD9AuY4pr4eIcYo"
+
 
 - date: 05/23/2023
   lecturer: 
@@ -131,12 +142,13 @@
     <strong>In-memory deep learning</strong>
   slides: ""
   logistics: (Lab 4 due)
+  hw_link: "https://drive.google.com/file/d/1_jMBWRM9XUOIO2VyYkqN42FPL26hwH6y/view?usp=sharing"
 
 - date: 05/25/2023
   lecturer: 
   title: >
     <strong>Accelerator for GNNs</strong>
-  slides: "https://docs.google.com/presentation/d/1AVuWzK95KLXZt-pRliJ-f8LRhG-omYU2/edit?usp=sharing&ouid=113017722085653394029&rtpof=true&sd=true"
+  slides: "https://drive.google.com/file/d/1NbFdNGA3IsgRPQfCivwjTnumNUK4YpLe/view?usp=sharing"
   readings:
     - <a href="https://www.usenix.org/conference/osdi21/presentation/gandhi" target="_blank">P3 Distributed Deep Graph Learning at Scale</a>
     - <a href="https://arxiv.org/abs/2112.08541" target="_blank">BGL GPU-Efficient GNN Training by Optimizing Graph Data I/O and Preprocessing</a>
@@ -146,7 +158,7 @@
   lecturer: 
   title: >
     <strong>Efficient multimedia and GANS</strong>
-  slides: "https://docs.google.com/presentation/d/1yW1tOMaHzPr6VpjNjxgWPSfUw5uX_oUl/edit?usp=sharing&ouid=113017722085653394029&rtpof=true&sd=true"
+  slides: "https://drive.google.com/file/d/1PR2P99CY6RU5RhesO8G9J155BdVnnhAj/view?usp=sharing"
   readings:
     - <a href="https://openaccess.thecvf.com/content_CVPR_2020/papers/Li_GAN_Compression_Efficient_Architectures_for_Interactive_Conditional_GANs_CVPR_2020_paper.pdf" target="_blank">GAN Compression Efficient Architectures for Interactive Conditional GANs</a>
     - <a href="https://www.usenix.org/system/files/nsdi22-paper-bhardwaj.pdf" target="_blank">Ekya Continuous Learning of Video Analytics Models on Edge Compute Servers</a>
@@ -156,7 +168,7 @@
   lecturer: 
   title: >
     <strong>Transformers and NLP architecture</strong>
-  slides: "https://docs.google.com/presentation/d/1RCo5rCS3im7LJRdGveGwXoeim-ZEeHAv/edit?usp=sharing&ouid=113017722085653394029&rtpof=true&sd=true"
+  slides: "https://drive.google.com/file/d/1b3JSkGdBM1xBO9l1qUqVjIXNVyX4o-Ln/view?usp=sharing"
   readings:
     - <a href="https://ieeexplore.ieee.org/document/9424344" target="_blank">Accelerating Transformer-based Deep Learning Models on FPGAs using Column Balanced Block Pruning</a>
     - <a href="https://dl.acm.org/doi/abs/10.5555/3571885.3571935" target="_blank">LightSeq2 accelerated training for transformer-based models on GPUs</a>
@@ -166,7 +178,7 @@
   lecturer: 
   title: >
     <strong>Accelerators for Transformers</strong>
-  slides: "https://docs.google.com/presentation/d/12uxR125U5BGCI3hSiq3-wisM3bfQWpvv/edit?usp=sharing&ouid=113017722085653394029&rtpof=true&sd=true"
+  slides: "https://drive.google.com/file/d/1345xlWzm7XShXAoYU0UGAbD4KG9MRzBj/view?usp=sharing"
   readings:
     - <a href="http://proceedings.mlr.press/v139/he21a.html" target="_blank">PipeTransformer Automated Elastic Pipelining for Distributed Training of Large-scale Models</a>
     - <a href="https://cs.stanford.edu/~matei/papers/2021/sc_megatron_lm.pdf" target="_blank">Efficient Large-Scale Language Model Training on GPU Clusters Using Megatron-LM</a>
@@ -176,9 +188,9 @@
   lecturer: 
   title: >
     <strong>Review and summary</strong>
-  slides: ""
+  slides: "https://drive.google.com/file/d/1345xlWzm7XShXAoYU0UGAbD4KG9MRzBj/view?usp=sharing"
   logistics: Project presentation poster due
-
+  hw_link: "https://drive.google.com/drive/u/1/folders/1H8O9fOu4Pv8m95I8ZcD9AuY4pr4eIcYo"
 
 - date: 
   lecturer: 

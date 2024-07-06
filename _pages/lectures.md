@@ -58,7 +58,7 @@ title: Schedule
         {% endif %}
     </td>
     <td>
-        <p>{{ lecture.logistics }}</p>
+        <p><a href="{{ lecture.hw_link }}" target="_blank">{{ lecture.logistics }}</a> </p>
     </td>
     {% endif %}
 </tr>
